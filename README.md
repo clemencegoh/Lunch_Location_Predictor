@@ -15,5 +15,7 @@ location of choice
 - [X] Encode all data into one-hot vectors
 - [X] Write code for train and validate/test
 - [X] Write code for prediction based off model
+    * **Redo this**
 - [ ] Integrate such that one function call with a new datapoint re-trains the model and predicts based off the new model
-- [ ] Deploy as a microservice
+- [X] Deploy as a microservice
+    * Deployed to heroku for now, to scale when needed
